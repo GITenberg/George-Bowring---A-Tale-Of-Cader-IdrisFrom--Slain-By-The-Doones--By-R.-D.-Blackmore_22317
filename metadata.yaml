@@ -1,0 +1,30 @@
+_repo: George-Bowring---A-Tale-Of-Cader-IdrisFrom--Slain-By-The-Doones--By-R.-D.-Blackmore_22317
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blackmore, R. D. (Richard Doddridge)
+    alias: Blackmore, Richard Doddridge
+    birthdate: 1825
+    deathdate: 1900
+    gutenberg_agent_id: '439'
+    url: http://www.gutenberg.org/2009/agents/439
+    wikipedia: http://en.wikipedia.org/wiki/R._D._Blackmore
+description: ''
+gutenberg_issued: '2007-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+title: 'George Bowring - A Tale Of Cader Idris
+
+  From "Slain By The Doones" By R. D. Blackmore'
+url: http://www.gutenberg.org/ebooks/22317
