@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/439
     wikipedia: http://en.wikipedia.org/wiki/R._D._Blackmore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22317#George-Bowring---A-Tale-Of-Cader-IdrisFrom--Slain-By-The-Doones--By-R.-D.-Blackmore
 gutenberg_issued: '2007-08-14'
 gutenberg_type: Text
 identifiers:
